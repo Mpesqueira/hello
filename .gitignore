@@ -2,5 +2,8 @@
 # folders that should be excluded
 # from version control
 
-#ignore vendor directory
+# ignore vendor directory
 vendor/
+
+# ignore composer.lock
+composer.lock
